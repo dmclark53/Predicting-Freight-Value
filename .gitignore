@@ -1,0 +1,30 @@
+# Directories
+data/
+docs/
+config/
+images/
+
+# Python
+config.py
+__init__.py
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm
+.idea
+
+# Scrapy
+.scrapy
+
+# Mac
+__MACOSX
+
+# Extensions
+*.csv
+*.key
+
+# Misc
+plan.md
+/Capstone-Projects/Capstone-3-Supervised-learning/images/
